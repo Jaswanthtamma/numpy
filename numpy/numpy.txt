@@ -1,0 +1,6 @@
+numpy stands for numerical python
+-its a python library used for working with arrays
+-it also has functions for working in domain of linear algebra, fourier transform and matrices.
+-it was created in 2005 by travis Oliphant.
+-it is an open source project and can be used freely.
+-Provides extensions package to python for multi dimensional array.
